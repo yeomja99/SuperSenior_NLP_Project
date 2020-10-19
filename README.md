@@ -3,10 +3,10 @@
 - 주제 : 시대, 장르에 따른 추천 가사 생성
 - 개발일정
 
-![./Documents/src/schedule.PNG](schedule.png)
+![schedule.PNG](./Documents/src/schedule.PNG)
 
 ## 상세내용
 
 시대, 장르에 따른 추천 가사 생성기는 다음과 같이 "시대", "장르"를 입력하면 해당 시대와 장르에 맞춘 추천 가사를 생성해주는 모델입니다
 
-![./Documents/src/picture1.PNG](model_introduce.png)
+![picture1.PNG](./Documents/src/picture1.PNG)
