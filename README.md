@@ -1,9 +1,9 @@
 # SuperSenior_NLP_Project
-- 팀 이름 : SuperSenior
-- 주제 : 시대, 장르에 따른 추천 가사 생성
-- 개발일정
 
-![schedule.PNG](./Documents/src/schedule.PNG)
+- __팀 이름__ : SuperSenior
+-  __주제__ : 시대, 장르에 따른 추천 가사 생성
+- __개발일정__
+<img src="./Documents/src/schedule.PNG" width="70%">
 
 ## 상세내용
 
